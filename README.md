@@ -39,7 +39,6 @@ Estamos buscando colaboradores apasionados y comprometidos que deseen aportar su
 
 1. **Instala Git**: Si no tienes Git instalado, abre tu terminal y escribe el siguiente comando para instalar Git. Por ejemplo, en Debian/Ubuntu:
 
-```bash
 sudo apt-get install git
 
 Abre la Terminal: Abre tu terminal favorita.
@@ -48,7 +47,7 @@ Clona el repositorio:
 
 En tu terminal, escribe el siguiente comando, reemplazando [URL del repositorio] con la URL real del repositorio en GitHub:
 
-bash
+```bash
 git clone [URL del repositorio]
 2. Añade tu contribución
 Navega a la carpeta del repositorio clonado:
